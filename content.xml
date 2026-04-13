@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260412214255AOJCWJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260412214255QXE1X0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SITUACIÓN DE APRENDIZAJE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776020817794</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfl-kq20oou0d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfl-kq20oou0d</odePageId>
+      <odeBlockId>20260407165852BZTYWZ</odeBlockId>
+      <blockName>Ficha técnica</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfl-kq20oou0d</odePageId>
+          <odeBlockId>20260407165852BZTYWZ</odeBlockId>
+          <odeIdeviceId>20260407182100367PP8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>TIULO DE LA SDA <strong>“PROTÉGETE, PROTÉGELE”</strong><br><em>Temporalización:&nbsp;2 semanas</em><br><em>Sesiones:&nbsp;4 sesiones</em><br><em>Curso&nbsp;1º&nbsp;</em><br><em>Ciclo Formativo de Grado Superior Imagen para el Diagnóstico y Medicina Nuclear</em><br><em>Módulo Protección Radiológica</em></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407182100367PP8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>TIULO DE LA SDA <strong>“PROTÉGETE, PROTÉGELE”</strong><br /><em>Temporalización: 2 semanas</em><br /><em>Sesiones: 4 sesiones</em><br /><em>Curso 1º </em><br /><em>Ciclo Formativo de Grado Superior Imagen para el Diagnóstico y Medicina Nuclear</em><br /><em>Módulo Protección Radiológica</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfo-e2onk87xu</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>1. Intención educativa.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfo-e2onk87xu</odePageId>
+      <odeBlockId>20260407165852CFWDGM</odeBlockId>
+      <blockName>Justificación y relación de la SdA con los ODS.</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfo-e2onk87xu</odePageId>
+          <odeBlockId>20260407165852CFWDGM</odeBlockId>
+          <odeIdeviceId>20260407182639993G4U</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Justificación</strong>:</p>
+<p>Se pretende fomentar una actitud preventiva y responsable ante situaciones reales de exposición en el alumnado. Que sean capaces de poder integrar la preparación necesaria para trabajar de forma segura en su futuro entorno profesional,&nbsp;contribuyendo a la reducción de riesgos asociados a la radiación ionizante dentro del ámbito ocupacional.&nbsp;</p>
+<p>&nbsp;<img src="{{context_path}}/content/resources/20260407182639993G4U/mceclip0.png"></p>
+<p>Relacionado con el <strong>ODS 3</strong>:<strong> Salud y bienestar</strong>.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407182639993G4U","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación</strong>:</p>\n<p>Se pretende fomentar una actitud preventiva y responsable ante situaciones reales de exposición en el alumnado. Que sean capaces de poder integrar la preparación necesaria para trabajar de forma segura en su futuro entorno profesional, contribuyendo a la reducción de riesgos asociados a la radiación ionizante dentro del ámbito ocupacional. </p>\n<p> <img src=\"{{context_path}}/content/resources/20260407182639993G4U/mceclip0.png\" /></p>\n<p>Relacionado con el <strong>ODS 3</strong>:<strong> Salud y bienestar</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfq-24gv4l3q9</odePageId>
+  <odeParentPageId>page-mnw4xtfo-e2onk87xu</odeParentPageId>
+  <pageName>Infografía</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfq-24gv4l3q9</odePageId>
+      <odeBlockId>block-1776005875386-41kj9et9z</odeBlockId>
+      <blockName>Infografía- Dosis de radiación</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfq-24gv4l3q9</odePageId>
+          <odeBlockId>block-1776005875386-41kj9et9z</odeBlockId>
+          <odeIdeviceId>idevice-1776005875384-uhg2fn3qj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dosis de radiación, infografía por la Comisión de Seguridad Nuclear (CSN):</p>
+<p><a href="https://www.csn.es/documents/10182/914805/Dosis%20de%20radiaci%C3%B3n" title="">https://www.csn.es/documents/10182/914805/Dosis%20de%20radiaci%C3%B3nç</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776005875384-uhg2fn3qj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dosis de radiación, infografía por la Comisión de Seguridad Nuclear (CSN):</p>\n<p><a href=\"https://www.csn.es/documents/10182/914805/Dosis%20de%20radiaci%C3%B3n\" title=\"\">https://www.csn.es/documents/10182/914805/Dosis%20de%20radiaci%C3%B3nç</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfr-untlq7twm</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>2.- Elementos Curriculares:</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.- Elementos Curriculares:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.- Elementos Curriculares:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfr-untlq7twm</odePageId>
+      <odeBlockId>20260407165852RCDDWW</odeBlockId>
+      <blockName>Competencias. Resultado de Aprendizaje y sus criterios de evaluación asociados.&amp;nbsp;</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfr-untlq7twm</odePageId>
+          <odeBlockId>20260407165852RCDDWW</odeBlockId>
+          <odeIdeviceId>20260407183934446UNK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias profesionales, personales y sociales</strong><br /> </p>
+<p>i)   Aplicar procedimientos de protección radiológica según los protocolos establecidos para prevenir los efectos biológicos de las radiaciones ionizantes.</p>
+<p>j)   Adaptarse a las nuevas situaciones laborales, manteniendo actualizados los conocimientos científicos, técnicos y tecnológicos relativos a su entorno profesional, gestionando su formación y los recursos existentes en el aprendizaje a lo largo de la vida y utilizando las tecnologías de la información y la comunicación.</p>
+<p> </p>
+<p>k)    Resolver situaciones, problemas o contingencias con iniciativa y autonomía en el ámbito de su competencia, con creatividad, innovación y espíritu de mejora en el trabajo personal y en el de los miembros del equipo.</p>
+<p> </p>
+<p> </p>
+<p><strong>RESULTADOS DE APRENDIZAJE</strong><br /><em>RA3. Aplica los protocolos de protección radiológica operacional, basándose en los criterios generales de protección y tipos de exposiciones.</em><br /><em>Criterios de evaluación</em><br /><em> </em><br /><strong>Criterios de evaluación del RA3:</strong></p>
+<p>a)  Se ha definido el objetivo de la protección radiológica.</p>
+<p>b)  Se ha diferenciado entre práctica e intervención.</p>
+<p>c)  Se han descrito los principios sobre los que se apoya la protección radiológica.</p>
+<p>d) Se han establecido las medidas básicas de protección radiológica.</p>
+<p>e)  Se han clasificado los lugares de trabajo y se ha procedido a su señalización.</p>
+<p>f)   Se ha explicado la vigilancia y el control de la radiación a nivel individual y del ambiente de trabajo.</p>
+<p>g) Se ha establecido la vigilancia sanitaria del personal profesionalmente expuesto.</p>
+<p> INSTRUMENTOS:</p>
+<p>X Rúbricas</p>
+<p>X Listas de cotejo</p>
+<p>X Cuestionario</p>
+<p><strong></strong><br /></p>
+<p><strong>PONDERACIÓN:</strong><strong> </strong><br />Rúbrica 20%</p>
+<p>Lista de cotejo 30%</p>
+<p>Cuestionario 50%</p>
+<p><strong></strong><br /></p>
+<p><strong>MÍNIMO:</strong><br />1/2 en cada apartado</p>
+<p> </p>
+<p>                                         <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407183934446UNK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias profesionales, personales y sociales</strong><br /> </p>\n<p>i)   Aplicar procedimientos de protección radiológica según los protocolos establecidos para prevenir los efectos biológicos de las radiaciones ionizantes.</p>\n<p>j)   Adaptarse a las nuevas situaciones laborales, manteniendo actualizados los conocimientos científicos, técnicos y tecnológicos relativos a su entorno profesional, gestionando su formación y los recursos existentes en el aprendizaje a lo largo de la vida y utilizando las tecnologías de la información y la comunicación.</p>\n<p> </p>\n<p>k)    Resolver situaciones, problemas o contingencias con iniciativa y autonomía en el ámbito de su competencia, con creatividad, innovación y espíritu de mejora en el trabajo personal y en el de los miembros del equipo.</p>\n<p> </p>\n<p> </p>\n<p><strong>RESULTADOS DE APRENDIZAJE</strong><br /><em>RA3. Aplica los protocolos de protección radiológica operacional, basándose en los criterios generales de protección y tipos de exposiciones.</em><br /><em>Criterios de evaluación</em><br /><em> </em><br /><strong>Criterios de evaluación del RA3:</strong></p>\n<p>a)  Se ha definido el objetivo de la protección radiológica.</p>\n<p>b)  Se ha diferenciado entre práctica e intervención.</p>\n<p>c)  Se han descrito los principios sobre los que se apoya la protección radiológica.</p>\n<p>d) Se han establecido las medidas básicas de protección radiológica.</p>\n<p>e)  Se han clasificado los lugares de trabajo y se ha procedido a su señalización.</p>\n<p>f)   Se ha explicado la vigilancia y el control de la radiación a nivel individual y del ambiente de trabajo.</p>\n<p>g) Se ha establecido la vigilancia sanitaria del personal profesionalmente expuesto.</p>\n<p> INSTRUMENTOS:</p>\n<p>X Rúbricas</p>\n<p>X Listas de cotejo</p>\n<p>X Cuestionario</p>\n<p><strong></strong><br /></p>\n<p><strong>PONDERACIÓN:</strong><strong> </strong><br />Rúbrica 20%</p>\n<p>Lista de cotejo 30%</p>\n<p>Cuestionario 50%</p>\n<p><strong></strong><br /></p>\n<p><strong>MÍNIMO:</strong><br />1/2 en cada apartado</p>\n<p> </p>\n<p>                                         <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfr-untlq7twm</odePageId>
+      <odeBlockId>20260407165852WJCBXE</odeBlockId>
+      <blockName>Contenidos</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfr-untlq7twm</odePageId>
+          <odeBlockId>20260407165852WJCBXE</odeBlockId>
+          <odeIdeviceId>20260407184600655B3B</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br><strong>CONTENIDOS:</strong></p>
+<p><br>· &nbsp; &nbsp; Concepto de trabajador expuesto, miembro del público, persona en formación y población en su conjunto.</p>
+<p>· &nbsp; &nbsp; Prevención de la exposición.</p>
+<p>· &nbsp; &nbsp; Clasificación de trabajadores expuestos.</p>
+<p>· &nbsp; &nbsp; Información y formación a los trabajadores expuestos.</p>
+<p>· &nbsp; &nbsp; Evaluación de la exposición.</p>
+<p>· &nbsp; &nbsp; Medidas de protección en circunstancias normales.</p>
+<p>· &nbsp; &nbsp; Protección radiológica del público en instalaciones sanitarias.</p>
+<p>· &nbsp; &nbsp; Protección radiológica del paciente.</p>
+<p><strong>&nbsp;CONTENIDOS MÍNIMOS:</strong><br>- Conocer tipo de exposición y medidas básicas de protección (distancia, tiempo y protección)</p>
+<p>- Tipo de trabajadores expuestos.</p>
+<p>- Evaluaciones.</p>
+<p>- Protección radiológica del paciente.&nbsp;</p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407184600655B3B","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><strong>CONTENIDOS:</strong></p>\n<p><br />·     Concepto de trabajador expuesto, miembro del público, persona en formación y población en su conjunto.</p>\n<p>·     Prevención de la exposición.</p>\n<p>·     Clasificación de trabajadores expuestos.</p>\n<p>·     Información y formación a los trabajadores expuestos.</p>\n<p>·     Evaluación de la exposición.</p>\n<p>·     Medidas de protección en circunstancias normales.</p>\n<p>·     Protección radiológica del público en instalaciones sanitarias.</p>\n<p>·     Protección radiológica del paciente.</p>\n<p><strong> CONTENIDOS MÍNIMOS:</strong><br />- Conocer tipo de exposición y medidas básicas de protección (distancia, tiempo y protección)</p>\n<p>- Tipo de trabajadores expuestos.</p>\n<p>- Evaluaciones.</p>\n<p>- Protección radiológica del paciente. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfs-tkwt5lr11</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfs-tkwt5lr11</odePageId>
+      <odeBlockId>block-1776007575495-c9cypzfw5</odeBlockId>
+      <blockName>Lista de cotejo de los criterios de evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfs-tkwt5lr11</odePageId>
+          <odeBlockId>block-1776007575495-c9cypzfw5</odeBlockId>
+          <odeIdeviceId>idevice-1776007575494-5lxrrsykf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <br /><br /></p>
+<p> <br />Lista de Cotejo para Evaluación en Protección Radiológica, criterios de evaluación:</p>
+<p><br /><br />a) Objetivo de la protección radiológica: <br /> <br />Se ha definido claramente el objetivo principal (evitar efectos biológicos deterministas y limitar efectos estocásticos).<br />b) Diferenciación entre práctica e intervención:<br /><br /> <br />La actividad ha identificado correctamente las prácticas y las intervenciones, y su finalidad específica.<br />c) Principios de protección radiológica:<br /> <br />Se han descrito los principios básicos: justificación, optimización (ALARA), y limitación de dosis.<br />d) Medidas básicas de protección radiológica:</p>
+<p><br />Se explican medidas como tiempo, distancia y blindaje, incluyendo ejemplos prácticos.<br />e) Clasificación y señalización de lugares de trabajo:<br /><br />Los lugares de trabajo están correctamente clasificados y señalizados según normativa.<br />f) Vigilancia y control de la radiación:<br /><br />Se ha explicado la monitorización de dosis, control ambiental y registros de exposición.<br />g) Vigilancia sanitaria del personal expuesto:<br /><br />Implementación de controles médicos, seguimiento de dosis y protección del trabajador.<br />h) Actividades prácticas y resolución de problemas:<br /><br />Correcta resolución de problemas como cálculo de dosis, distancia y blindaje, aplicando formulas y principios.<br />i) Presentación y comunicación:<br /><br />Claridad en la exposición de ideas, uso adecuado de terminología y soporte visual.<br />j) Cumplimiento de protocolos y normas de seguridad:<br /><br /><br /></p>
+<p> <br />¿Quieres que prepare también una rúbrica con niveles de logro (por ejemplo, excepcionales, buenos, insuficientes) o que agregue actividades específicas para evaluación práctica?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776007575494-5lxrrsykf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <br /><br /></p>\n<p> <br />Lista de Cotejo para Evaluación en Protección Radiológica, criterios de evaluación:</p>\n<p><br /><br />a) Objetivo de la protección radiológica: <br /> <br />Se ha definido claramente el objetivo principal (evitar efectos biológicos deterministas y limitar efectos estocásticos).<br />b) Diferenciación entre práctica e intervención:<br /><br /> <br />La actividad ha identificado correctamente las prácticas y las intervenciones, y su finalidad específica.<br />c) Principios de protección radiológica:<br /> <br />Se han descrito los principios básicos: justificación, optimización (ALARA), y limitación de dosis.<br />d) Medidas básicas de protección radiológica:</p>\n<p><br />Se explican medidas como tiempo, distancia y blindaje, incluyendo ejemplos prácticos.<br />e) Clasificación y señalización de lugares de trabajo:<br /><br />Los lugares de trabajo están correctamente clasificados y señalizados según normativa.<br />f) Vigilancia y control de la radiación:<br /><br />Se ha explicado la monitorización de dosis, control ambiental y registros de exposición.<br />g) Vigilancia sanitaria del personal expuesto:<br /><br />Implementación de controles médicos, seguimiento de dosis y protección del trabajador.<br />h) Actividades prácticas y resolución de problemas:<br /><br />Correcta resolución de problemas como cálculo de dosis, distancia y blindaje, aplicando formulas y principios.<br />i) Presentación y comunicación:<br /><br />Claridad en la exposición de ideas, uso adecuado de terminología y soporte visual.<br />j) Cumplimiento de protocolos y normas de seguridad:<br /><br /><br /></p>\n<p> <br />¿Quieres que prepare también una rúbrica con niveles de logro (por ejemplo, excepcionales, buenos, insuficientes) o que agregue actividades específicas para evaluación práctica?</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfs-v50flg15j</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>3.- Metodologías activas:</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.- Metodologías activas:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.- Metodologías activas:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfs-v50flg15j</odePageId>
+      <odeBlockId>20260407165852PUCYSN</odeBlockId>
+      <blockName>Metodologías:</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfs-v50flg15j</odePageId>
+          <odeBlockId>20260407165852PUCYSN</odeBlockId>
+          <odeIdeviceId>20260407184748674ZCX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br></p>
+<p>X Aprendizaje basado en problemas</p>
+<p>&nbsp;X Aprendizaje cooperativo</p>
+<p>X Casos reales</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407184748674ZCX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>X Aprendizaje basado en problemas</p>\n<p> X Aprendizaje cooperativo</p>\n<p>X Casos reales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfs-v50flg15j</odePageId>
+      <odeBlockId>20260407165852SPTTRJ</odeBlockId>
+      <blockName>Agrupamientos</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfs-v50flg15j</odePageId>
+          <odeBlockId>20260407165852SPTTRJ</odeBlockId>
+          <odeIdeviceId>20260407184910686AWW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p></p>
+<p>X Grupos interactivos&nbsp;</p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407184910686AWW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>X Grupos interactivos </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtft-h38ikhqe5</odePageId>
+  <odeParentPageId>page-mnw4xtfs-v50flg15j</odeParentPageId>
+  <pageName>Diccionario de términos - GLOSARIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos - GLOSARIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos - GLOSARIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtft-h38ikhqe5</odePageId>
+      <odeBlockId>block-1776006369046-u11hjl7ej</odeBlockId>
+      <blockName>GLOSARIO</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtft-h38ikhqe5</odePageId>
+          <odeBlockId>block-1776006369046-u11hjl7ej</odeBlockId>
+          <odeIdeviceId>idevice-1776006369044-3ymfr1cxp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> 1. Protección Radiológica: Conjunto de medidas y prácticas destinadas a minimizar la exposición a las radiaciones ionizantes y proteger a las personas y al medio ambiente de sus efectos nocivos.</p>
+<p>2. Radiaciones Ionizantes: Tipo de radiación capaz de ionizar átomos y moléculas, incluyendo Rayos X, rayos gamma, partículas alfa, beta, etc.</p>
+<p>3. Efectos Deterministas: Efectos biológicos de la radiación que tienen un umbral de dosis, por debajo del cual no se producen. Ejemplos: quemaduras, cataratas.</p>
+<p>4. Efectos Estocásticos: Efectos que no tienen un umbral definido y cuya probabilidad de ocurrencia aumenta con la dosis; la gravedad no depende de la dosis. Ejemplo: cáncer.</p>
+<p>5. Sistema de Limitación de Dosis: Conjunto de límites máximos de exposición establecidos para garantizar la protección de las personas expuestas a radiaciones.</p>
+<p>6. Justificación: Principio que establece que toda práctica con radiaciones ionizantes debe aportar un beneficio que compense los riesgos que genera.</p>
+<p>7. Optimización (ALARA): Principio que busca mantener las dosis tan bajas como sea razonablemente posible, teniendo en cuenta factores económicos y sociales.</p>
+<p>8. Exposiciones Normales y Potenciales: Las normales son aquellas que se esperan de forma regular en una práctica, mientras que las potenciales son las que podrían ocurrir en casos de fallo o accidente.</p>
+<p>9. Intervención: Conjunto de acciones que se toman en situaciones de emergencia o exposición perdurable para reducir la exposición o el riesgo.</p>
+<p>10. Radiación Externa: Tipo de exposición en la cual la fuente de radiación está fuera del cuerpo del individuo.</p>
+<p>11. Contaminación Radiactiva: Presencia de sustancias radiactivas en el ambiente o en el organismo (externa o interna), que puede causar exposición adicional.</p>
+<p>12. Blindaje: Material o barrera diseñada para disminuir la intensidad de la radiación que atraviesa, protegiendo a las personas y áreas circundantes.</p>
+<p>13. Barreras Primarias y Secundarias: Las primarias bloquean el haz directo de radiación, mientras las secundarias atenúan radiación dispersa o secundarias.</p>
+<p>14. Distancia: Factores que disminuyen la exposición; alejando la fuente de radiación, se reduce la dosis recibida según la ley del inverso del cuadrado.</p>
+<p>15. Tiempo de Exposición: Duración que una persona permanece expuesta a una fuente de radiación; menor tiempo, menor dosis.</p>
+<p>16. Contaminación Interna y Externa: La interna ocurre por inside-inhalación, ingestión o heridas; la externa por contacto en la superficie del cuerpo o prendas contaminadas.</p>
+<p>17. Radiación Dispersa: Radiación que se desvía del haz primario y tiene menor intensidad; puede ser producida en las interacciones del haz con estructuras.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776006369044-3ymfr1cxp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> 1. Protección Radiológica: Conjunto de medidas y prácticas destinadas a minimizar la exposición a las radiaciones ionizantes y proteger a las personas y al medio ambiente de sus efectos nocivos.</p>\n<p>2. Radiaciones Ionizantes: Tipo de radiación capaz de ionizar átomos y moléculas, incluyendo Rayos X, rayos gamma, partículas alfa, beta, etc.</p>\n<p>3. Efectos Deterministas: Efectos biológicos de la radiación que tienen un umbral de dosis, por debajo del cual no se producen. Ejemplos: quemaduras, cataratas.</p>\n<p>4. Efectos Estocásticos: Efectos que no tienen un umbral definido y cuya probabilidad de ocurrencia aumenta con la dosis; la gravedad no depende de la dosis. Ejemplo: cáncer.</p>\n<p>5. Sistema de Limitación de Dosis: Conjunto de límites máximos de exposición establecidos para garantizar la protección de las personas expuestas a radiaciones.</p>\n<p>6. Justificación: Principio que establece que toda práctica con radiaciones ionizantes debe aportar un beneficio que compense los riesgos que genera.</p>\n<p>7. Optimización (ALARA): Principio que busca mantener las dosis tan bajas como sea razonablemente posible, teniendo en cuenta factores económicos y sociales.</p>\n<p>8. Exposiciones Normales y Potenciales: Las normales son aquellas que se esperan de forma regular en una práctica, mientras que las potenciales son las que podrían ocurrir en casos de fallo o accidente.</p>\n<p>9. Intervención: Conjunto de acciones que se toman en situaciones de emergencia o exposición perdurable para reducir la exposición o el riesgo.</p>\n<p>10. Radiación Externa: Tipo de exposición en la cual la fuente de radiación está fuera del cuerpo del individuo.</p>\n<p>11. Contaminación Radiactiva: Presencia de sustancias radiactivas en el ambiente o en el organismo (externa o interna), que puede causar exposición adicional.</p>\n<p>12. Blindaje: Material o barrera diseñada para disminuir la intensidad de la radiación que atraviesa, protegiendo a las personas y áreas circundantes.</p>\n<p>13. Barreras Primarias y Secundarias: Las primarias bloquean el haz directo de radiación, mientras las secundarias atenúan radiación dispersa o secundarias.</p>\n<p>14. Distancia: Factores que disminuyen la exposición; alejando la fuente de radiación, se reduce la dosis recibida según la ley del inverso del cuadrado.</p>\n<p>15. Tiempo de Exposición: Duración que una persona permanece expuesta a una fuente de radiación; menor tiempo, menor dosis.</p>\n<p>16. Contaminación Interna y Externa: La interna ocurre por inside-inhalación, ingestión o heridas; la externa por contacto en la superficie del cuerpo o prendas contaminadas.</p>\n<p>17. Radiación Dispersa: Radiación que se desvía del haz primario y tiene menor intensidad; puede ser producida en las interacciones del haz con estructuras.</p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtft-cvs5ru1hi</odePageId>
+  <odeParentPageId>page-mnw4xtfs-v50flg15j</odeParentPageId>
+  <pageName>Juegos </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juegos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juegos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtft-cvs5ru1hi</odePageId>
+      <odeBlockId>block-1776006960328-rcizt6cuc</odeBlockId>
+      <blockName>Puzle</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtft-cvs5ru1hi</odePageId>
+          <odeBlockId>block-1776006960328-rcizt6cuc</odeBlockId>
+          <odeIdeviceId>idevice-1776006960326-7l7ufgotq</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1776006960326-7l7ufgotq" data-evaluationb="false" data-evaluationid="22d1831b-bc72-4c4c-b99c-6fdb910f1794"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Coloca las piezas del puzzle hasta resolver la imagen del espectro de ondas electromagnéticas, ¡suerte!</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FE%FD%F1%F3%B2%FE%F3%E1%B2%E2%FB%F7%E8%F3%E1%B2%F6%F7%FE%B2%E2%E7%E8%E8%FE%F7%B2%FA%F3%E1%E6%F3%B2%E0%F7%E1%FD%FE%E4%F7%E0%B2%FE%F3%B2%FB%FF%F3%F5%F7%FC%B2%F6%F7%FE%B2%F7%E1%E2%F7%F1%E6%E0%FD%B2%F6%F7%B2%FD%FC%F6%F3%E1%B2%F7%FE%F7%F1%E6%E0%FD%FF%F3%F5%FC%7B%E6%FB%F1%F3%E1%BE%B23%E1%E7%F7%E0%E6%F7%B3%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%AB%F0%A3%A4%A6%A7%A2%F1%BF%AA%F1%AA%A5%BF%A6%A1%A6%F3%BF%AB%A4%F1%F1%BF%F4%F0%AB%A0%A6%A7%A7%F7%A6%A5%F7%A2%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A0%A0%F6%A3%AA%A1%A3%F0%BF%F0%F1%A5%A0%BF%A6%F1%A6%F1%BF%F0%AB%AB%F1%BF%A4%F4%F6%F0%AB%A3%A2%F4%A3%A5%AB%A6%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A4%A2%A2%A4%AB%A4%A2%A1%A0%A4%BF%A5%FE%A5%E7%F4%F5%FD%E6%E3%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%C1%E7%F0%FF%FB%E6%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%F1%FE%E7%F7%B2%FB%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%C2%FE%F3%EB%B2%D3%F5%F3%FB%FC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E2%FE%F3%EB%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%DA%FB%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D7%EA%FB%E6%B2%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%DC%FD%B2%E2%FB%F1%E6%E7%E0%F7%B2%E3%E7%F7%E1%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B0%D1%FD%FD%FE%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%C0%FB%F5%FA%E6%B3%B2%EE%B2%D7%EA%F1%F7%FE%FE%F7%FC%E6%B3%B2%EE%B2%D5%E0%F7%F3%E6%B3%B2%EE%B2%C4%F7%E0%EB%B2%F5%FD%FD%F6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DB%E6%B2%E5%F3%E1%B2%FC%FD%E6%B2%E6%FA%F3%E6%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%DC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%C1%FD%E0%E0%EB%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%CD%CD%CB%FD%E7%B2%FC%F7%F7%F6%B2%F3%E6%B2%FE%F7%F3%E1%E6%B2%B7%E1%B7%B2%FD%F4%B2%F1%FD%E0%E0%F7%F1%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%E6%FD%B2%F5%F7%E6%B2%E6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B2%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E1%E6%F3%E0%E6%B2%E6%FA%F7%B2%F5%F3%FF%F7%B2%F0%F7%F4%FD%E0%F7%B2%E1%F3%E4%FB%FC%F5%B2%EB%FD%E7%E0%B2%E1%F1%FD%E0%F7%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%C6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F1%F3%FC%B5%E6%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F0%F7%F1%F3%E7%E1%F7%B2%E6%FA%FB%E1%B2%E2%F3%F5%F7%B2%FB%E1%B2%FC%FD%E6%B2%E2%F3%E0%E6%B2%FD%F4%B2%F3%B2%C1%D1%DD%C0%DF%B2%E2%F3%F1%F9%F3%F5%F7%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%FD%FC%F1%F7%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%FD%FC%F1%F7%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FA%FD%E0%E1%FA%FB%E2%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B2%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%FD%FC%F1%F7%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%C6%FA%F7%B2%FE%F3%E1%E6%B2%E1%F1%FD%E0%F7%B2%E1%F3%E4%F7%F6%B2%FB%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F3%FE%E0%F7%F3%F6%EB%B2%F6%FD%FC%F7%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%F6%FD%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%FE%FD%E1%F7%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%FB%FF%F7%B2%FB%E1%B2%E7%E2%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B2%F3%FE%FE%B2%E6%FA%F7%B2%F3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%F3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B2%E6%FD%B2%F0%F7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F7%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DB%FC%F1%FD%FF%E2%FE%F7%E6%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%C2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%DC%FD%E6%B2%E2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%C1%FA%FD%E5%BD%DA%FB%F6%F7%B2%FB%FF%F3%F5%F7%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%C1%FA%FD%E5%BD%DA%FB%F6%F7%B2%FC%E7%FF%F0%F7%E0%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%F3%E6%E6%F7%FF%E2%E6%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%FF%F7%B2%E1%E2%F7%FC%E6%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%DC%F7%EA%E6%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%F3%E6%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%FB%E1%FA%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/Captura de pantalla 2026-04-12 171312.png" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtft-p8hwqtb23</odePageId>
+  <odeParentPageId>page-mnw4xtfs-v50flg15j</odeParentPageId>
+  <pageName>Roll-playing</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Roll-playing</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Roll-playing</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtft-p8hwqtb23</odePageId>
+      <odeBlockId>block-1776008185027-kzfy5k7wt</odeBlockId>
+      <blockName>Realización de la actividad</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtft-p8hwqtb23</odePageId>
+          <odeBlockId>block-1776008185027-kzfy5k7wt</odeBlockId>
+          <odeIdeviceId>idevice-1776008185025-0umya6l0c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Se realizará la simulación de la recogida de imagen de una radiografía de tórax por grupos, cada pareja hará de paciente/acompañante y técnicos. cada grupo tendrá una hoja con los pasos a seguir y describirán sus práctica clínica describiendo las incidencias encontradas por medio de la plataforma <strong>One Notes.</strong></p>
+<p><strong>Para su evaluación deberán adjuntar una infografía con fotos del alumnado realizando la técnica y además un vídeo explicando las medidas de protección radiológica</strong>.</p>
+<p>* Se adjunta lista de cotejo para el alumnado</p>
+<p>* A continuación se adjunta la hoja descriptiva de la actividad.<br /><br />Informe de la Práctica de Simulación en el alumnado de 1º de IPD:</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" width="216" height="216" /></p>
+<h6><em>Imagen de flaticon</em></h6>
+<p><br /></p>
+<p>Protección Radiológica en una Radiografía de tórax <br />Nombre del grupo: _____________________________</p>
+<p>Fecha: _____________________________</p>
+<p>Duración de la práctica: _____________________________</p>
+<p> <br />1. Objetivo de la actividad<br />Realizar una simulación de una exploración radiográfica de tórax, aplicando las medidas de protección radiológica, justificando la práctica, minimizando la exposición del paciente y del personal, y asegurando la seguridad durante la misma.</p>
+<p>2. Justificación de la práctica<br />Se llevó a cabo esta exploración para obtener una imagen diagnóstica del tórax del paciente simulado, permitiendo identificar posibles patologías pulmonares. La práctica se realizó bajo el principio de justificación, asegurando que el beneficio diagnóstico superaba cualquier posible riesgo de exposición radiológica.</p>
+<p>3. Preparación previa y planificación<br />Se verificó el estado del equipo radiológico, incluyendo la calibración y protección del equipo.<br />Se delimitó y colimó cuidadosamente el campo de radiación para restringirlo al área de interés.<br />Se seleccionaron los elementos de protección personal y protección estructural para el personal y el paciente.<br />Se explicó claramente al 'paciente' (simulado) el proceso y las recomendaciones de protección.<br />4. Procedimiento y medidas de protección<br />Posicionamiento: El paciente se colocó en posición erguida, con las manos en las caderas y respirando normalmente.<br />Protección del personal y el entorno:<br />Uso correcto de delantales plomados, collarines tiroideos y guantes.<br />Distancia segura: Se utilizó la distancia máxima posible entre la fuente y el técnico.<br />Colimación adecuada para reducir el área de exposición.<br />Ejecución: Se realizó la toma radiográfica ajustando la técnica para minimizar la dosis, utilizando tiempos cortos y protecciones adicionales cuando fue necesario.<br />Medición de la exposición: Se estimó la dosis en diferentes puntos, asegurando no superar los límites recomendados.<br />5. Resultados y estimaciones<br />La exposición en la posición del técnico fue baja, respetando las dosis límite.<br />Se utilizó un tiempo de exposición muy reducido, disminuyendo la dosis.<br />La radiografía se realizó con éxito, con imagen de calidad diagnóstica y sin incidentes.<br />6. Reflexión y conclusiones<br />La protección radiológica eficiente requiere una planificación previa y el uso adecuado de barreras y protección personal.<br />El cumplimiento de los principios de justificación, optimización y limitación de dosis garantiza la seguridad del paciente y del personal.<br />La actividad permitió comprender mejor la importancia de la protección en entornos clínicos y la aplicación práctica de las normativas.<br /><br /> <br />Firma del miembro del grupo: __________________________</p>
+<p><br /></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776008185025-0umya6l0c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Se realizará la simulación de la recogida de imagen de una radiografía de tórax por grupos, cada pareja hará de paciente/acompañante y técnicos. cada grupo tendrá una hoja con los pasos a seguir y describirán sus práctica clínica describiendo las incidencias encontradas por medio de la plataforma <strong>One Notes.</strong></p>\n<p><strong>Para su evaluación deberán adjuntar una infografía con fotos del alumnado realizando la técnica y además un vídeo explicando las medidas de protección radiológica</strong>.</p>\n<p>* Se adjunta lista de cotejo para el alumnado</p>\n<p>* A continuación se adjunta la hoja descriptiva de la actividad.<br /><br />Informe de la Práctica de Simulación en el alumnado de 1º de IPD:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"216\" height=\"216\" /></p>\n<h6><em>Imagen de flaticon</em></h6>\n<p><br /></p>\n<p>Protección Radiológica en una Radiografía de tórax <br />Nombre del grupo: _____________________________</p>\n<p>Fecha: _____________________________</p>\n<p>Duración de la práctica: _____________________________</p>\n<p> <br />1. Objetivo de la actividad<br />Realizar una simulación de una exploración radiográfica de tórax, aplicando las medidas de protección radiológica, justificando la práctica, minimizando la exposición del paciente y del personal, y asegurando la seguridad durante la misma.</p>\n<p>2. Justificación de la práctica<br />Se llevó a cabo esta exploración para obtener una imagen diagnóstica del tórax del paciente simulado, permitiendo identificar posibles patologías pulmonares. La práctica se realizó bajo el principio de justificación, asegurando que el beneficio diagnóstico superaba cualquier posible riesgo de exposición radiológica.</p>\n<p>3. Preparación previa y planificación<br />Se verificó el estado del equipo radiológico, incluyendo la calibración y protección del equipo.<br />Se delimitó y colimó cuidadosamente el campo de radiación para restringirlo al área de interés.<br />Se seleccionaron los elementos de protección personal y protección estructural para el personal y el paciente.<br />Se explicó claramente al 'paciente' (simulado) el proceso y las recomendaciones de protección.<br />4. Procedimiento y medidas de protección<br />Posicionamiento: El paciente se colocó en posición erguida, con las manos en las caderas y respirando normalmente.<br />Protección del personal y el entorno:<br />Uso correcto de delantales plomados, collarines tiroideos y guantes.<br />Distancia segura: Se utilizó la distancia máxima posible entre la fuente y el técnico.<br />Colimación adecuada para reducir el área de exposición.<br />Ejecución: Se realizó la toma radiográfica ajustando la técnica para minimizar la dosis, utilizando tiempos cortos y protecciones adicionales cuando fue necesario.<br />Medición de la exposición: Se estimó la dosis en diferentes puntos, asegurando no superar los límites recomendados.<br />5. Resultados y estimaciones<br />La exposición en la posición del técnico fue baja, respetando las dosis límite.<br />Se utilizó un tiempo de exposición muy reducido, disminuyendo la dosis.<br />La radiografía se realizó con éxito, con imagen de calidad diagnóstica y sin incidentes.<br />6. Reflexión y conclusiones<br />La protección radiológica eficiente requiere una planificación previa y el uso adecuado de barreras y protección personal.<br />El cumplimiento de los principios de justificación, optimización y limitación de dosis garantiza la seguridad del paciente y del personal.<br />La actividad permitió comprender mejor la importancia de la protección en entornos clínicos y la aplicación práctica de las normativas.<br /><br /> <br />Firma del miembro del grupo: __________________________</p>\n<p><br /></p>\n<p> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfu-n8x4pr9nf</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>4.- Vinculación con los proyectos y programas del centro:</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.- Vinculación con los proyectos y programas del centro:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.- Vinculación con los proyectos y programas del centro:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfu-n8x4pr9nf</odePageId>
+      <odeBlockId>20260407165852JHERIQ</odeBlockId>
+      <blockName>Vinculaciones</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfu-n8x4pr9nf</odePageId>
+          <odeBlockId>20260407165852JHERIQ</odeBlockId>
+          <odeIdeviceId>202604071849531530NK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>La Situación de Aprendizaje se vincula al PEC (Proyecto Educativo del centro), ya que contribuye al desarrollo de valores pedagógicos en aula, concretamente a los relacionados con la salud, sobre todo en el área de la prevención de futuras lesiones. Además, favorece la responsabilidad profesional que el alumnado debe desarrollar, alcanzando la competencia profesional necesaria para llevar a cabo su labor futura desde un prisma de seguridad.&nbsp;</p>
+<p>Por otro lado, se relaciona con el plan de convivencia que regula las normas y actuaciones para un clima adecuado, gracias al trabajo colaborativo donde se fomenta el trabajo en equipo por medio del diálogo y la comunicación. &nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604071849531530NK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje se vincula al PEC (Proyecto Educativo del centro), ya que contribuye al desarrollo de valores pedagógicos en aula, concretamente a los relacionados con la salud, sobre todo en el área de la prevención de futuras lesiones. Además, favorece la responsabilidad profesional que el alumnado debe desarrollar, alcanzando la competencia profesional necesaria para llevar a cabo su labor futura desde un prisma de seguridad. </p>\n<p>Por otro lado, se relaciona con el plan de convivencia que regula las normas y actuaciones para un clima adecuado, gracias al trabajo colaborativo donde se fomenta el trabajo en equipo por medio del diálogo y la comunicación.  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfu-u94m2zvvn</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>5.- Actividades complementarias y extraescolares:</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.- Actividades complementarias y extraescolares:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.- Actividades complementarias y extraescolares:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfu-u94m2zvvn</odePageId>
+      <odeBlockId>20260407165852GHBFUT</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfu-u94m2zvvn</odePageId>
+          <odeBlockId>20260407165852GHBFUT</odeBlockId>
+          <odeIdeviceId>20260407185043317918</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Se plantearía la idea de visitar un servicio de radiodiagnóstico real, donde pueden observar en directo como el personal que allí trabaja ponen en funcionamiento todas las medias de protección radiológica explicadas y trabajas en el aula.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407185043317918","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantearía la idea de visitar un servicio de radiodiagnóstico real, donde pueden observar en directo como el personal que allí trabaja ponen en funcionamiento todas las medias de protección radiológica explicadas y trabajas en el aula. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnw4xtfu-25j0av6v0</odePageId>
+  <odeParentPageId>page-mnw4xtfl-kq20oou0d</odeParentPageId>
+  <pageName>6.- Incluye la atribución y fichero descargable:</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.- Incluye la atribución y fichero descargable:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.- Incluye la atribución y fichero descargable:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnw4xtfu-25j0av6v0</odePageId>
+      <odeBlockId>20260407165852LGVIJF</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnw4xtfu-25j0av6v0</odePageId>
+          <odeBlockId>20260407165852LGVIJF</odeBlockId>
+          <odeIdeviceId>20260407185111918J13</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>SITUACIÓN DE APRENDIZAJE</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
